@@ -219,7 +219,7 @@ h2{
     background: transparent;
     border: none;
     outline: none;
-    font-size: 12px;
+    font-size: 13px;
     color: white;
     font-weight: 600;
     padding: 5px;
@@ -227,7 +227,7 @@ h2{
 .input-box i{
     position: absolute;
     right: 8px;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 60px;
     color: var(--white);
 }
