@@ -372,6 +372,9 @@ footer .logo{
         margin: auto;
         margin-top: 50px;
      }
+    .input-box i{
+        font-size: 15px;
+     }
 }
 
 /****responsive for larger than 500px screens****/
