@@ -199,7 +199,7 @@ h2{
 }
 .input-box label{
     position: absolute;
-    top: 50%;
+    top: 5%;
     left: 5px;
     transform: translateY(-50%);
     font-size: 13px;
@@ -222,7 +222,7 @@ h2{
     font-size: 12px;
     color: white;
     font-weight: 600;
-    padding: 0 35px 0 5px;
+    padding: 5px;
 }
 .input-box i{
     position: absolute;
